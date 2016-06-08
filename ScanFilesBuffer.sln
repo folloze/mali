@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanFilesBuffer", "WebApplication2\ScanFilesBuffer.csproj", "{FFAB7A3E-058C-4480-9EAE-CEF12C5820B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bxMSCLIScanner", "..\..\..\..\..\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner.csproj", "{FF2DAF1B-2C73-47C6-8E9A-11AB2C96FA96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bxMSCLIScanner", "..\opswat-wrapper\bxMSCLIScanner\bxMSCLIScanner.csproj", "{FF2DAF1B-2C73-47C6-8E9A-11AB2C96FA96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -151,13 +151,13 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner.csproj">
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\opswat-wrapper\bxMSCLIScanner\bxMSCLIScanner.csproj">
       <Project>{ff2daf1b-2c73-47c6-8e9a-11ab2c96fa96}</Project>
       <Name>bxMSCLIScanner</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
