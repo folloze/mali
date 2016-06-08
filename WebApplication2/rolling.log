@@ -1,0 +1,891 @@
+2016-06-05 11:44:26,319 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Application is working
+2016-06-05 11:44:26,984 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Application is working
+2016-06-05 11:45:08,400 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Application is working
+2016-06-05 11:55:55,174 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Application is working
+2016-06-05 11:55:56,078 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Application is working
+2016-06-05 11:58:31,277 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Application is working
+2016-06-05 11:58:31,288 [7] INFO bxMSCLIScanner.ScanExecuter - Application is working 2
+2016-06-05 12:38:12,672 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Application is working
+2016-06-05 12:38:13,180 [6] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid
+2016-06-05 12:45:35,169 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg ...
+2016-06-05 12:45:35,668 [7] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 12:45:35,674 [7] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid!
+2016-06-05 13:14:10,362 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:21:12,577 [13] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:21:14,187 [13] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:22:43,417 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:22:45,040 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:28:22,854 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:28:24,586 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:28:53,240 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:28:54,905 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:28:56,487 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:28:58,601 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:02,718 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:05,489 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:08,164 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:10,626 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:13,030 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:14,628 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:16,254 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:17,844 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:19,487 [10] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:21,102 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:22,743 [10] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:24,325 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:25,939 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:27,520 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:29,814 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:29:31,743 [15] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 13:30:59,604 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:30:59,637 [9] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:30:59,645 [9] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:02,299 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:02,319 [8] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:02,319 [8] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:04,081 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:04,092 [7] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:04,092 [7] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:05,989 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:06,006 [9] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:06,006 [9] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:07,659 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:07,687 [17] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:07,687 [17] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:09,297 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:09,311 [9] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:09,311 [9] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:11,265 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:11,294 [8] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:11,294 [8] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:12,885 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:12,902 [17] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:12,903 [17] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:14,500 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:14,516 [9] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:14,520 [9] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:16,146 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:16,156 [8] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:16,157 [8] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:17,769 [21] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:17,791 [7] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:17,792 [7] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:20,518 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:20,534 [17] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:20,535 [17] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:22,136 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:22,151 [9] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:22,151 [9] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:23,728 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:23,749 [8] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:23,750 [8] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:25,331 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:25,348 [16] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:25,348 [16] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:26,952 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:26,957 [9] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:26,957 [9] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:28,651 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:28,667 [16] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:28,668 [16] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:30,270 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:30,280 [8] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:30,280 [8] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:32,028 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:32,033 [9] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:32,033 [9] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:31:33,641 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:31:33,645 [16] ERROR bxMSCLIScanner.FileFromLink - System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 21
+2016-06-05 13:31:33,645 [16] ERROR bxMSCLIScanner.ScanExecuter - File: www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf is invalid!
+2016-06-05 13:33:03,903 [22] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:05,524 [15] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:07,281 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:08,925 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:11,537 [22] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:13,170 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:14,859 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:16,438 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:18,024 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:19,607 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:21,207 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:27,895 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:29,483 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:33,252 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:35,193 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:36,816 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:38,404 [22] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:39,984 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:41,581 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 13:33:43,162 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:03,560 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:05,375 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:06,520 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/4c3295c6-15ff-4800-ace8-50ab0d031b13/callback
+2016-06-05 15:45:07,022 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:07,601 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/23aeaa5b-a0c4-4716-a7db-62b872dfe910/callback
+2016-06-05 15:45:08,203 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:08,435 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/2cfba4a6-64d1-4ba5-959a-3e76aa703fd1/callback
+2016-06-05 15:45:08,618 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:08,704 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:09,177 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:10,207 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:10,747 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/fc265d0b-630f-4d39-a8fd-a594a2246318/callback
+2016-06-05 15:45:11,766 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/24f9f9b5-56f8-4036-bd83-2d3a14cfb409/callback
+2016-06-05 15:45:11,777 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:11,787 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:12,640 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:13,399 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:14,881 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/de568dae-cb8c-4453-8122-be190159a37f/callback
+2016-06-05 15:45:14,972 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:16,080 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:16,524 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/55006f30-f968-413a-b165-125214126f8f/callback
+2016-06-05 15:45:16,578 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:16,691 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/970857bc-f822-412e-a5b7-29da196dd9c1/callback
+2016-06-05 15:45:17,252 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:17,339 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:18,942 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:19,147 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/61ba10d7-6d62-4aba-af7f-17072bd7b311/callback
+2016-06-05 15:45:19,871 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:20,521 [11] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:21,050 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9a071e45-7a04-4a9f-8114-65c1ecd9d074/callback
+2016-06-05 15:45:22,104 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:22,122 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/b3966cf5-2a24-40b8-8505-9a2e0ba2a249/callback
+2016-06-05 15:45:22,456 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:22,973 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:23,767 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:23,853 [11] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/8a719052-aa53-4f15-9d19-a969ce6dfe08/callback
+2016-06-05 15:45:24,636 [11] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:25,361 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:25,447 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f21e2b7e-9b4b-4e6c-949d-8c978ebf751e/callback
+2016-06-05 15:45:26,139 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:26,993 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/fde5b861-56a3-4c8e-ad88-9bc9444c132c/callback
+2016-06-05 15:45:28,380 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:31,985 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:33,802 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/8e6c3070-f836-43e2-a29a-1c72921155d3/callback
+2016-06-05 15:45:34,234 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:34,554 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:35,781 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/872c2686-8234-4da3-a619-9bc170cd56c0/callback
+2016-06-05 15:45:36,656 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:40,822 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:42,247 [11] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/453624a8-9035-44c4-be04-065027d88328/callback
+2016-06-05 15:45:42,409 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:43,624 [11] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:43,735 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/396931c0-c958-46ce-9533-38937a78d58d/callback
+2016-06-05 15:45:43,980 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:44,481 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:45,440 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e291b86c-4388-4102-984a-75a6e8d1d6d5/callback
+2016-06-05 15:45:45,556 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:45:47,252 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:45:47,591 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/8cf1ef52-8887-468f-8f51-cb59b801cb07/callback
+2016-06-05 15:45:49,281 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:09,295 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:10,543 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:11,151 [21] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:11,462 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/d117c58b-43c3-4f74-88f6-41f61d2b255f/callback
+2016-06-05 15:50:11,747 [21] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:12,957 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:13,327 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:13,506 [22] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/d0485788-1866-4a5f-be26-9ad276523986/callback
+2016-06-05 15:50:13,919 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:14,373 [22] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:14,975 [22] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:15,274 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/84372012-7bb7-497e-ac8c-345cc3bd2693/callback
+2016-06-05 15:50:16,027 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:16,162 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9519074f-11ca-48d2-ab6a-294c0470c740/callback
+2016-06-05 15:50:16,191 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/5ecd9b0f-5b94-43ee-90ba-3aa2b0e1dc51/callback
+2016-06-05 15:50:16,802 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:16,907 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:16,909 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:17,518 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:18,460 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e17b698c-d49b-4ca8-93fd-5a3a35b662e4/callback
+2016-06-05 15:50:18,553 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/5f2349c1-2b5a-4919-9b91-a982cd8f31cc/callback
+2016-06-05 15:50:19,927 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:19,932 [21] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:19,966 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:20,107 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/fe23f0d3-b0ee-4037-b832-dc5657f80d30/callback
+2016-06-05 15:50:20,548 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:20,906 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:21,730 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:21,978 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/c2e354bc-7dfa-440f-a06a-e62ae0d6c962/callback
+2016-06-05 15:50:22,299 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/106e058a-e570-4c0c-801e-2a0f9d3e4a30/callback
+2016-06-05 15:50:22,657 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/125a9e62-d668-4a9e-a451-29cb5c799b26/callback
+2016-06-05 15:50:22,767 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:22,973 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:23,318 [20] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:23,732 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/c7fa56c2-e885-4826-8b52-1b2e8300ee69/callback
+2016-06-05 15:50:23,901 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:24,530 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:24,542 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:24,564 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:25,212 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/06ab24c6-90ef-4d36-a4b2-e9eb161d3848/callback
+2016-06-05 15:50:25,959 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/037fe338-5e80-4f6c-a1ef-9fe8aa4774af/callback
+2016-06-05 15:50:25,979 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:26,307 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/962e36e9-26f1-4338-9d9a-2fa245633e1c/callback
+2016-06-05 15:50:26,763 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:26,957 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:30,233 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:31,785 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:32,010 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/618611e3-cf8b-4fff-82c5-f0ded9121c40/callback
+2016-06-05 15:50:32,416 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:32,781 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:33,031 [21] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:33,642 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/3832df0b-ecf3-4727-8d91-524ce115e5d7/callback
+2016-06-05 15:50:33,914 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:34,125 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/32e49d5e-ed18-42e5-b4e2-08b2b4e3d65e/callback
+2016-06-05 15:50:34,424 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:34,882 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:36,067 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/5dc0a008-8cc3-4e36-a077-466091654061/callback
+2016-06-05 15:50:36,834 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:38,000 [22] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/85f63b66-25f5-4a0b-bb6f-2201d9267cc4/callback
+2016-06-05 15:50:38,720 [22] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:44,490 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:45,069 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:45,698 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:46,624 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:46,795 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/7f73d00f-f0e1-4a93-909f-a8f992e57629/callback
+2016-06-05 15:50:47,307 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/7afa57bb-0f22-4d26-9f91-3069e7422a59/callback
+2016-06-05 15:50:47,308 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:47,372 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/c34c45d5-945f-447d-82e3-ac0d90997fa2/callback
+2016-06-05 15:50:47,671 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:47,928 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:48,142 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:48,142 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:48,479 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/858ce62b-8b00-4b43-a5a6-20dab953d8ff/callback
+2016-06-05 15:50:48,651 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:49,248 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:49,369 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:49,846 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:50,356 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/3393ee01-c4ea-4e9e-ba51-8af4b361eb66/callback
+2016-06-05 15:50:50,421 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:51,005 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:51,139 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:51,225 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/a1d6052c-e24a-4f82-afbb-87a240882d2f/callback
+2016-06-05 15:50:52,179 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:52,406 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/3230ca78-e6c8-4e6a-8fc1-0368e0afa51f/callback
+2016-06-05 15:50:52,533 [22] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/5bdd4bf5-b2bc-4d0b-b6ed-94fe78280d0c/callback
+2016-06-05 15:50:52,593 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:53,175 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:53,230 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:53,230 [22] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:53,400 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/8f567b4a-307b-4916-96e9-2991c6e6735b/callback
+2016-06-05 15:50:53,767 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:54,178 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:54,190 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e83b3c2b-f6cc-430e-b176-e2da84f72134/callback
+2016-06-05 15:50:54,233 [24] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/95d24167-c6de-4929-abf0-09fe247f73c2/callback
+2016-06-05 15:50:54,356 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:54,950 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:54,981 [24] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:54,983 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:55,646 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/d01a961c-5474-49d7-b4f0-b7a7d7d7ef96/callback
+2016-06-05 15:50:55,672 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:56,280 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:56,286 [24] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:56,608 [22] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/09e54101-a482-46d7-a7d6-d17f0847e508/callback
+2016-06-05 15:50:56,882 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:50:56,900 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/7680eacb-d643-4908-a61a-89ce428900c7/callback
+2016-06-05 15:50:57,437 [22] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:58,038 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/1326bf0d-b503-4b34-b560-616d067b2084/callback
+2016-06-05 15:50:58,311 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/a57d9cc5-b8fa-4ce9-9ba2-e22173029f8f/callback
+2016-06-05 15:50:58,778 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f3a6be55-9346-453b-a500-4529872eeb7f/callback
+2016-06-05 15:50:58,874 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:58,874 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:59,104 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:50:59,631 [20] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:51:00,009 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/21473d3a-c01c-40e5-9b15-7ee08e49bbaf/callback
+2016-06-05 15:51:00,022 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:51:00,846 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:51:02,228 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/6e11d49a-5664-4329-9048-1ce67ec810ac/callback
+2016-06-05 15:51:02,282 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/8f414983-db37-4401-9390-0adcf95a3657/callback
+2016-06-05 15:51:03,026 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:51:03,030 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:38,643 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:57:39,223 [20] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:57:39,879 [25] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:57:40,480 [23] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:57:41,118 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/a72508d2-c8c9-4c15-9ff5-3964b0708a29/callback
+2016-06-05 15:57:41,141 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:57:42,343 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:42,637 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/0d075d35-e243-46af-97dd-a647ecd03cd8/callback
+2016-06-05 15:57:43,114 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:57:43,404 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:43,882 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/fca86a57-04a2-4059-843f-b059821946c3/callback
+2016-06-05 15:57:43,967 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:57:44,543 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:57:45,166 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:45,404 [24] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/11a7d056-d145-42e8-9d38-8226d7b4f991/callback
+2016-06-05 15:57:45,568 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/d84de879-85ff-4144-9215-bd7de605bfe2/callback
+2016-06-05 15:57:45,797 [23] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:57:46,172 [24] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:46,772 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:47,339 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/5dd615c4-28d5-4978-8863-212fa8ac4336/callback
+2016-06-05 15:57:47,460 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/2d9fba3f-7e30-490e-879a-68da9e9ddbd7/callback
+2016-06-05 15:57:48,106 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:48,121 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:48,170 [26] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/52cae01f-3578-46e1-8d90-9806af456562/callback
+2016-06-05 15:57:48,961 [26] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:49,394 [20] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:57:49,805 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/976bcfcf-d930-4b9b-b10d-b1d7e188d6e9/callback
+2016-06-05 15:57:49,975 [20] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:57:50,696 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:52,151 [24] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/22c3ecc4-d052-4b01-bd86-6e2d2dd0378f/callback
+2016-06-05 15:57:53,000 [24] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:54,468 [26] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e2fb49bb-c4cb-4279-89cc-cbdea3a15fd9/callback
+2016-06-05 15:57:55,119 [26] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:55,583 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:57:56,154 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:57:56,653 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/bef7aaf7-2368-47ec-9fb8-3757cb28d765/callback
+2016-06-05 15:57:56,722 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:57:58,668 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:57:59,820 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f66dd84d-372c-40ad-90cf-e08ea5394ad9/callback
+2016-06-05 15:58:00,607 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:01,319 [26] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e2260db0-fb0c-486f-ae37-a0aab41ece16/callback
+2016-06-05 15:58:02,079 [26] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:02,349 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:58:03,015 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:03,612 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:03,803 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/c9dbad2c-66ad-430e-a016-97bd78397571/callback
+2016-06-05 15:58:04,317 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:58:04,609 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:04,899 [20] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:04,911 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f4be91ed-fb9f-4ea5-b30d-142a01d8bf78/callback
+2016-06-05 15:58:05,281 [24] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9d7cdd4b-619b-4c0d-ae9e-823e2411284b/callback
+2016-06-05 15:58:05,483 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:05,670 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:05,894 [24] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:07,682 [23] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/a5d74c7e-a3f2-4db8-8d27-1dad205d1ee8/callback
+2016-06-05 15:58:08,521 [23] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:09,531 [26] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/ec476b08-6518-4d6d-a824-3f6e9466ac41/callback
+2016-06-05 15:58:10,020 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/ef6385e0-fc29-4474-84d8-d32ab9908e1c/callback
+2016-06-05 15:58:10,130 [26] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:10,815 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:16,061 [26] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:16,760 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:17,327 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:58:17,925 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:18,508 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:19,089 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:58:20,187 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/1ae8c775-89fc-41a9-b44a-8ea461947c0e/callback
+2016-06-05 15:58:20,820 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:20,997 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:21,017 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/2ff848d0-9cde-40cc-bf7d-85bd52be65b4/callback
+2016-06-05 15:58:21,180 [24] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/494b3e35-408e-407f-aa41-91177bfe3162/callback
+2016-06-05 15:58:21,432 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:21,648 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f90a3d52-86e6-4cf7-8746-236d2996f55c/callback
+2016-06-05 15:58:21,790 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:21,794 [24] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:22,013 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:58:22,447 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:22,579 [25] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:23,087 [26] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/87e9e9a6-f8b8-4640-83c7-7e01f2d7dfa1/callback
+2016-06-05 15:58:23,166 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:23,442 [24] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/eb020802-a63a-4482-b66c-58131f8b642d/callback
+2016-06-05 15:58:23,955 [23] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/dd501632-d8f8-4e86-ad6d-70765e091fdd/callback
+2016-06-05 15:58:24,228 [26] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:24,360 [24] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:24,399 [26] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:58:24,652 [12] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/82868593-b7c2-4c44-aa01-f37d3ce04f9f/callback
+2016-06-05 15:58:24,747 [23] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:25,158 [26] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:25,405 [12] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:25,755 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/6bf3efae-e0df-47df-8c2d-af3896ff4362/callback
+2016-06-05 15:58:25,775 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:26,132 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/53300ee5-3f94-4f39-9588-c51d690557c5/callback
+2016-06-05 15:58:26,359 [23] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:58:26,392 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:27,322 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:27,684 [23] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:28,305 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:28,822 [24] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f3c90139-97be-4229-a06c-54037f22f1c7/callback
+2016-06-05 15:58:28,898 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 15:58:28,912 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/15e3fd22-f536-4afc-9061-4ac0bdd4e182/callback
+2016-06-05 15:58:28,938 [12] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/7571b7f0-621a-427d-b796-11b9ed7a8c0d/callback
+2016-06-05 15:58:29,106 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/dc7074e0-9574-48cf-811c-bef4e3cb277e/callback
+2016-06-05 15:58:29,522 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 15:58:29,586 [24] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:29,591 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:29,643 [12] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:29,792 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:29,877 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/765a4f5a-ad03-45ff-b770-7beb75fc42dd/callback
+2016-06-05 15:58:30,251 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e387c062-fcfc-4c34-b5f4-39dca173bb2c/callback
+2016-06-05 15:58:30,333 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 15:58:30,700 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:30,886 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:32,096 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/863cbc49-d696-4741-a4bb-f1febb6e8de9/callback
+2016-06-05 15:58:32,633 [23] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/57b8b7e8-00de-4503-be83-e5572293ab33/callback
+2016-06-05 15:58:32,855 [8] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:33,608 [23] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:34,490 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/ed8e0c15-8242-46f4-a3b8-1c1f012e62f3/callback
+2016-06-05 15:58:34,539 [26] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/fa703f45-29a5-4acd-9887-5c5945ff7cff/callback
+2016-06-05 15:58:35,235 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 15:58:35,244 [26] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:45,502 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 16:07:46,378 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 16:07:46,967 [20] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 16:07:47,539 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.istmt.rnu.tn/uploads/tb49mlcnad8o0lc.pdf ...
+2016-06-05 16:07:47,730 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/8f654031-4dfd-4a3b-b20a-e4d5661900a2/callback
+2016-06-05 16:07:48,119 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf ...
+2016-06-05 16:07:48,771 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:48,774 [21] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://www.antennahouse.com/XSLsample/pdf/sample-link_1.pdf ...
+2016-06-05 16:07:48,997 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/dba1ba4d-b9b4-4820-a35d-3d2eb9424b4e/callback
+2016-06-05 16:07:49,039 [7] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 16:07:49,046 [7] ERROR bxMSCLIScanner.ScanExecuter - File: https://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf is invalid!
+2016-06-05 16:07:49,046 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/13b34509-9ffe-46c6-9117-942852b8b2d4/callback
+2016-06-05 16:07:49,455 [21] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://foersom.com/net/HowTo/data/OoPdfFormExample.pdf ...
+2016-06-05 16:07:49,543 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/863f64bd-c7f8-48c1-b67e-599ee32dbb33/callback
+2016-06-05 16:07:49,786 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:49,792 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:49,811 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/13b34509-9ffe-46c6-9117-942852b8b2d4/callback
+2016-06-05 16:07:50,203 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/774ea480-3938-4ca5-afb5-1f03c2213ea9/callback
+2016-06-05 16:07:50,302 [14] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:50,727 [13] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/eca44415-0431-42e6-9f8c-6bd47f904205/callback
+2016-06-05 16:07:50,769 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:50,774 [9] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.tcpdf.org/examples/example_001.pdf ...
+2016-06-05 16:07:50,951 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:51,526 [20] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://prawnpdf.org/manual.pdf ...
+2016-06-05 16:07:51,703 [13] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:52,307 [16] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9adaa8e0-1ce6-489d-a652-40d6ee63dde2/callback
+2016-06-05 16:07:52,309 [13] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://www.acm.org/sigs/publications/sig-alternate.pdf ...
+2016-06-05 16:07:53,061 [16] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:53,174 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/5925fece-057c-4a74-af07-6615b00a6e5d/callback
+2016-06-05 16:07:53,698 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.scala-lang.org/docu/files/ScalaByExample.pdf ...
+2016-06-05 16:07:54,902 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdfwatermarkremover.com/PDF-Watermark-Sample.pdf ...
+2016-06-05 16:07:55,691 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:56,268 [9] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 16:07:57,170 [13] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e07ca2c8-cf01-4ca6-b619-489fa7bde54b/callback
+2016-06-05 16:07:57,850 [21] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 16:07:57,929 [13] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:07:58,872 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/11c14bce-900e-4fa7-b02c-56b336b7bc80/callback
+2016-06-05 16:07:58,937 [13] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 16:07:59,662 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:00,035 [13] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/95603d6b-54fc-41fb-b2a7-9314976c0092/callback
+2016-06-05 16:08:00,233 [9] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.istmt.rnu.tn/uploads/tb49mlcnad8o0lc.pdf ...
+2016-06-05 16:08:00,426 [17] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/dcf51104-5197-4a7d-a0ea-02608c234575/callback
+2016-06-05 16:08:00,816 [13] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:00,818 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf ...
+2016-06-05 16:08:01,040 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/24ca9645-7ab7-4f79-a4c2-50b2809fbd1e/callback
+2016-06-05 16:08:01,207 [17] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:01,361 [18] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 16:08:01,361 [18] ERROR bxMSCLIScanner.ScanExecuter - File: https://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf is invalid!
+2016-06-05 16:08:01,361 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9f018eba-52b6-425a-9d15-49b1476837a9/callback
+2016-06-05 16:08:01,406 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://www.antennahouse.com/XSLsample/pdf/sample-link_1.pdf ...
+2016-06-05 16:08:01,818 [14] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:01,976 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://foersom.com/net/HowTo/data/OoPdfFormExample.pdf ...
+2016-06-05 16:08:02,104 [13] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/c7e3d170-662a-40e8-b303-df899065bb0f/callback
+2016-06-05 16:08:02,209 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:02,214 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9f018eba-52b6-425a-9d15-49b1476837a9/callback
+2016-06-05 16:08:02,562 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.tcpdf.org/examples/example_001.pdf ...
+2016-06-05 16:08:02,944 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/49d61e12-87ae-4e77-94ae-42808441d843/callback
+2016-06-05 16:08:02,950 [13] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:02,952 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:03,158 [16] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/36d2c5d8-5099-49f2-9c1d-d932f5de13d8/callback
+2016-06-05 16:08:03,698 [14] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:03,904 [16] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:06,219 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9ec88b5f-7b1a-41d7-9d93-7072bd960b62/callback
+2016-06-05 16:08:06,978 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:07,718 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/b8b9e233-5314-4c11-9275-32bb1841bd86/callback
+2016-06-05 16:08:08,498 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:12,542 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9ff93150-5f0f-4243-8d92-e573c90e3202/callback
+2016-06-05 16:08:13,170 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 16:08:13,261 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:13,959 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 16:08:14,568 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 16:08:14,628 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/6802d586-3573-441c-b577-0bb821273830/callback
+2016-06-05 16:08:15,151 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.istmt.rnu.tn/uploads/tb49mlcnad8o0lc.pdf ...
+2016-06-05 16:08:15,420 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:15,608 [16] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/9ccb1e8d-fdaf-4d82-ae35-1899852e1fb0/callback
+2016-06-05 16:08:15,755 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf ...
+2016-06-05 16:08:16,344 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://www.antennahouse.com/XSLsample/pdf/sample-link_1.pdf ...
+2016-06-05 16:08:16,371 [16] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:16,551 [21] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 16:08:16,551 [21] ERROR bxMSCLIScanner.ScanExecuter - File: https://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf is invalid!
+2016-06-05 16:08:16,551 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/208216df-1db6-4c6e-bccb-51dba12b7e94/callback
+2016-06-05 16:08:16,920 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://foersom.com/net/HowTo/data/OoPdfFormExample.pdf ...
+2016-06-05 16:08:17,240 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/a85dc9fd-85ef-405d-bca2-e68c6a8f18ef/callback
+2016-06-05 16:08:17,321 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:17,341 [13] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/3654981e-ba2c-4b8a-a824-641908d2b278/callback
+2016-06-05 16:08:17,341 [20] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/a1b0c687-39cb-4fd5-bc22-081c6d204482/callback
+2016-06-05 16:08:17,341 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/208216df-1db6-4c6e-bccb-51dba12b7e94/callback
+2016-06-05 16:08:17,518 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.tcpdf.org/examples/example_001.pdf ...
+2016-06-05 16:08:17,877 [16] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/732325e5-ed9f-4b51-a621-061afcadf633/callback
+2016-06-05 16:08:18,114 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://prawnpdf.org/manual.pdf ...
+2016-06-05 16:08:18,736 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://www.acm.org/sigs/publications/sig-alternate.pdf ...
+2016-06-05 16:08:19,126 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/1e7512c7-faf3-4805-b03a-653e3b5f73a2/callback
+2016-06-05 16:08:19,398 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.scala-lang.org/docu/files/ScalaByExample.pdf ...
+2016-06-05 16:08:19,769 [14] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:19,773 [16] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:19,782 [20] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:19,783 [13] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:19,785 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:19,935 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:21,097 [25] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdfwatermarkremover.com/PDF-Watermark-Sample.pdf ...
+2016-06-05 16:08:21,742 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 16:08:22,820 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/dee3d35b-6a2e-408c-948a-c7d343d01ea5/callback
+2016-06-05 16:08:23,284 [24] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/0e695078-4505-4589-ab24-e891236bb365/callback
+2016-06-05 16:08:23,732 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:24,255 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/fef900b7-b3de-42cf-aa07-4c229e90e889/callback
+2016-06-05 16:08:24,491 [24] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:24,894 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:26,301 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.pdf995.com/samples/pdf.pdf ...
+2016-06-05 16:08:26,896 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.fundaciongasnaturalfenosa.org/wp-content/uploads/woocommerce_uploads/2015/11/sample.pdf ...
+2016-06-05 16:08:27,577 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.istmt.rnu.tn/uploads/tb49mlcnad8o0lc.pdf ...
+2016-06-05 16:08:28,193 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf ...
+2016-06-05 16:08:28,419 [16] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/891fed4b-63a3-4e0b-96a5-e0f78090c5c4/callback
+2016-06-05 16:08:28,521 [13] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/555738a6-aaa1-4f1a-bb54-e1e32343b9af/callback
+2016-06-05 16:08:28,743 [14] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 16:08:28,744 [14] ERROR bxMSCLIScanner.ScanExecuter - File: https://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf is invalid!
+2016-06-05 16:08:28,744 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/69c1b3b9-eac5-4157-8ca1-65b4732fa0fd/callback
+2016-06-05 16:08:28,812 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://www.antennahouse.com/XSLsample/pdf/sample-link_1.pdf ...
+2016-06-05 16:08:29,213 [16] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:29,215 [13] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:29,407 [14] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:29,411 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/69c1b3b9-eac5-4157-8ca1-65b4732fa0fd/callback
+2016-06-05 16:08:29,449 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://foersom.com/net/HowTo/data/OoPdfFormExample.pdf ...
+2016-06-05 16:08:29,532 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/a51363fd-a436-42c4-97b9-20d7a0aa0108/callback
+2016-06-05 16:08:30,068 [21] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/a57cad58-0f45-4b6d-bd92-cc9e8b622a03/callback
+2016-06-05 16:08:30,102 [17] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.tcpdf.org/examples/example_001.pdf ...
+2016-06-05 16:08:30,174 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/0ffe837c-6f80-4e6c-b4ff-0f411a50e9e9/callback
+2016-06-05 16:08:30,257 [14] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:30,259 [7] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:30,272 [13] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/98728d7d-5896-48bf-b095-73c902ab0128/callback
+2016-06-05 16:08:31,896 [16] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/3e25a448-1dbe-4412-a0a7-e5e11d2d3c35/callback
+2016-06-05 16:08:32,136 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:32,139 [13] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:32,139 [21] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:32,659 [16] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:08:38,600 [22] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/45f90914-95f5-436c-aa2c-c9f7b33b333b/callback
+2016-06-05 16:08:39,422 [22] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:28:42,638 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/69232a042c85f630_.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%272.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T132717Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8044356cb2c9f94961932fbc05ba5777c72fbb78dbbb0ea3a65aeba7d0064266 ...
+2016-06-05 16:28:43,297 [22] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/80473a8d62e365da_.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%272%20%281%29.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T132723Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2d8c080c4586a66a7045cf4c7fc7e81000d91fa615c12bff37738dbdf87bd273 ...
+2016-06-05 16:28:47,925 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/69069299-bf90-409f-8bb0-073d93df43c9/callback
+2016-06-05 16:28:49,110 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:28:50,905 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/bfb6f8d6-5d17-4683-9d51-0e592c8db2cb/callback
+2016-06-05 16:28:51,807 [10] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:28:55,217 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/e713de85f1a7dbbf_dfccecbfbddceoriginal.jpeg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%276df438c9-ce5c-4228-b329-9f6875bdd7ce-original.jpeg&X-Amz-Expires=3600&X-Amz-Date=20160605T132735Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=281851f0505d05a8af010af9b12980294436a1bd78ac516e83a4ec3010bd8199 ...
+2016-06-05 16:28:58,391 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/542dcca3-2d4b-4167-b45b-907bfcf216ba/callback
+2016-06-05 16:28:59,227 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:01,507 [9] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/36f767d54fe8dd3b_.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%2741657.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T132741Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ef396820e9c33f7f705d1955f632636ec5181bf3bbc9f42d2a7cf55a265118ef ...
+2016-06-05 16:29:04,603 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/1742b90b21644a7a_AdobeXMLFormsSamples.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27AdobeXMLFormsSamples.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T132744Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7e243d9312ce88b66385f149dc6b30176adc8d0c8a2c50b84f8b56e3d0e88890 ...
+2016-06-05 16:29:12,767 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/13f4dada-41ad-4830-bbe2-f153e0e5d80b/callback
+2016-06-05 16:29:13,516 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:15,168 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e09b4bf3-ac6e-42e1-a3e4-d9e5db9bafbd/callback
+2016-06-05 16:29:15,450 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/e77e37d9d32151bf_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132755Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=21a10d76248c8c50093b1a84adb0c05cb03501f655fe29d39a9b704d0f2e250a ...
+2016-06-05 16:29:16,529 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:16,983 [22] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/59c16824164ef494_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%281%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132757Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5ab8ef0cf7292cc53c81c7995bf104b39eaf8927e6d842a6236053f058aec061 ...
+2016-06-05 16:29:18,396 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/bc9312f6-1360-4e99-ab40-464d3315de5e/callback
+2016-06-05 16:29:18,682 [25] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/9df807276c2024ff_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%282%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132759Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=91076e94670a716528cd56cfd1bb0d3770808fa7f2d6980d2cbfd22d864dc63a ...
+2016-06-05 16:29:19,011 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/5836ceb4-06b8-4144-a1c4-d1871a880b1d/callback
+2016-06-05 16:29:19,219 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:19,795 [22] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/78b679d6-c6db-4094-b572-ba6679a94da7/callback
+2016-06-05 16:29:20,158 [18] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:20,535 [22] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:24,895 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/7c4c20b80cc869a9_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%283%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132805Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3e990c8602c474d86b41d79b8452e77c3550f74fb62ade732be007ad328e9929 ...
+2016-06-05 16:29:26,004 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/28b99b73-22d4-4e8d-903a-a78f875f619b/callback
+2016-06-05 16:29:26,775 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:28,325 [25] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/969666818d6eaff0_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%284%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132808Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=570851d8ead9f9bc9e1026bb7dcd2a0b6537f492a6faaea9266e61f7c79c80b5 ...
+2016-06-05 16:29:29,438 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e1593e26-0bfb-4e83-a145-3676059757d7/callback
+2016-06-05 16:29:30,189 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:36,214 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/108a9523e809a896_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%285%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132816Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1625911e2fc2f11a025b3c241ba29110a62ae98baeb3892611806c5f629b4396 ...
+2016-06-05 16:29:38,445 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/75fb50cd-38ab-4115-8e5d-952408d8accb/callback
+2016-06-05 16:29:39,194 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/b87c3ca0611b84ef_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%286%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132819Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d3809633f67e0467493bbd60de9d4112fa8b104242e3adc980ac912ed68a9f3f ...
+2016-06-05 16:29:40,016 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:40,297 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/40add092-11fb-43bc-9316-b1612e909f50/callback
+2016-06-05 16:29:41,050 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:43,342 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/380ea2b14144739f_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%287%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132823Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2dbaf6fa02afb0b5d1b461d7dda5016c15167784d11c45d8b2997a09e643d279 ...
+2016-06-05 16:29:44,455 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e2d6673e-9273-4b8d-b51f-75cc1f931c4e/callback
+2016-06-05 16:29:45,172 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/e5774586ebcae1fc_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download2.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132825Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a6cf912a5e0bb622900e9d4639ca0a28bf3ed5b8118c479525345cb527a89eab ...
+2016-06-05 16:29:45,199 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:46,040 [25] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/758ca69e-4eca-4bf4-824d-2d94c0d83f1c/callback
+2016-06-05 16:29:46,778 [25] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:46,856 [9] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/cc63fd7ce2df8f7b_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download3.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T132827Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=85c9ee9502555aa8107cb4c0b21666f8b2b1f72a559ed794a7a2b8952f7d4286 ...
+2016-06-05 16:29:47,727 [22] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/3caeaf43-0309-4715-9d55-a0420f93adcc/callback
+2016-06-05 16:29:48,505 [22] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:52,653 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/8f4354ce5fa668b9_example.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27example.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T132833Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a20c82011015a552b92fb812697f78cf7e5bd419683f59f5887b72252bc71e3a ...
+2016-06-05 16:29:54,489 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/191e4f9b-8d68-4720-a816-4ebc7e2df7ec/callback
+2016-06-05 16:29:55,264 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:29:57,265 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/e84b2a7f2c85b7a7_ExecutiveSummary.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Executive%20Summary%2009-2014.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T132837Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=22ceea7c37675312757d53421eb83546df132b7c188da02e01a41a846dcbaa9a ...
+2016-06-05 16:30:01,087 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/34607049-b48f-4751-8886-cff6bec03a68/callback
+2016-06-05 16:30:02,543 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:30:05,392 [18] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/e462c3b378465b70_pdf.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27pdf.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T132845Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bead5466b7960efafd72eb210d0caeaa21d3aa40b444fa7d950626f782863878 ...
+2016-06-05 16:30:08,857 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f3dafa68-3940-436e-8029-dffe61c1e03e/callback
+2016-06-05 16:30:09,605 [9] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:30:09,760 [9] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/56ab3c5d0dd8370f_sample.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27sample.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T132850Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4388a071da21af7184509612ab16feebd9e14e6e0eda7e4ea92140e098847d6c ...
+2016-06-05 16:30:13,181 [22] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/98f6561f-21af-4287-ad27-858f8d56fef2/callback
+2016-06-05 16:30:13,913 [22] INFO bxMSCLIScanner.CallBacker - Callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:12,525 [10] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/e3a3866f4ca0b72a_.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%272.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T134352Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4decdc2501c10b141d9e1bb188214771212f91e72a3144d37e030e7c39ddf4ec ...
+2016-06-05 16:45:17,291 [14] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/52b1ec8b432e0cba_.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%272%20%281%29.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T134356Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8c7095205094df3b09b290618e1b6bfb9edc749a851cb453259b4186b3ea3504 ...
+2016-06-05 16:45:17,705 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/444723ac-0c94-4a44-a9d4-c20c3de6234c/callback
+2016-06-05 16:45:19,035 [7] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/444723ac-0c94-4a44-a9d4-c20c3de6234c/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:24,017 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/028b4f62-8a6d-4c96-b4af-235104d6e45a/callback
+2016-06-05 16:45:24,863 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/028b4f62-8a6d-4c96-b4af-235104d6e45a/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:25,127 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/cf258ddd4115b895_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%281%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134405Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=29e7a492c20706603cb78faefee937d7995de41c5eec9cc196063537ba206a2e ...
+2016-06-05 16:45:26,107 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/5c2c2ff4c3249120_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%282%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134406Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=28723303153efd9690c6bd987a31f6fd829bb3a97ea14f46bb311d40de068694 ...
+2016-06-05 16:45:26,816 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/6a3d15d8-1fd7-4ace-96fa-b8b795436f6d/callback
+2016-06-05 16:45:27,567 [14] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/6a3d15d8-1fd7-4ace-96fa-b8b795436f6d/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:27,790 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/83873f4d-dc61-4934-a660-20a1cc96b473/callback
+2016-06-05 16:45:28,540 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/83873f4d-dc61-4934-a660-20a1cc96b473/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:30,198 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/31a78b0aded5ab9a_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134410Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9be30a09cc393195868cd0ef6c1783358df352ead7e7a8fdee19f2a28efb7bb1 ...
+2016-06-05 16:45:31,262 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/ad72b002-6c62-44de-8fd7-07bda4d6e84e/callback
+2016-06-05 16:45:31,858 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/ad72b002-6c62-44de-8fd7-07bda4d6e84e/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:37,607 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/972337447e052488_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%284%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134417Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ac55c4af3b4cf8a06bcbbe5a202c89494e1106d5752355a9ddc2a36ea50b849d ...
+2016-06-05 16:45:39,290 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/43aa7b96-d042-4b3a-9c3f-686e3a3acb7f/callback
+2016-06-05 16:45:40,053 [8] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/43aa7b96-d042-4b3a-9c3f-686e3a3acb7f/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:43,924 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/2343f4d6da216b2a_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%283%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134423Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=aaa3749c46c40f2ff3b3f3dee6ba01b2eeeee529f9f250db815ce96ec9c6acff ...
+2016-06-05 16:45:44,987 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e7f460ce-a83f-4ddc-ac89-20247a0e148a/callback
+2016-06-05 16:45:45,763 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/e7f460ce-a83f-4ddc-ac89-20247a0e148a/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:47,937 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/213a2fe4bf2833ce_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%286%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134428Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=891e81bc09c2882c9bd96a619ae803f07bf119da1b9339f761fc34d151dd9252 ...
+2016-06-05 16:45:48,381 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/1e9f4ee17bab9b4c_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%285%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134428Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d99a65e72e7782a8e71dc8ee04194c6fadfeca52fbdac9db013e08dffe71f47e ...
+2016-06-05 16:45:49,000 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/2c32db91-c0d0-4965-91e1-1d19d46d51da/callback
+2016-06-05 16:45:49,653 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e2f04525-2e84-4e3b-b241-96728e572d75/callback
+2016-06-05 16:45:49,873 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/2c32db91-c0d0-4965-91e1-1d19d46d51da/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:50,435 [8] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/e2f04525-2e84-4e3b-b241-96728e572d75/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:51,113 [10] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/756e2c63fff079ac_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download1%20%287%29.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134431Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a482127fea59d0b5773ff1cc05165aab63c71739b1eb454cd2881189bf119472 ...
+2016-06-05 16:45:52,176 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/31524c63-abea-426d-b981-e104bb5ccc27/callback
+2016-06-05 16:45:53,180 [14] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/31524c63-abea-426d-b981-e104bb5ccc27/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:56,125 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/d286c24af89812cf_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download2.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134436Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ba2d819a55218452e05515ca51c4ec438fc984b29e9cbb6374df75819d103a0c ...
+2016-06-05 16:45:56,986 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/c778f0ae-ca39-4513-8214-a73293bb3786/callback
+2016-06-05 16:45:57,681 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/ce18ff5a630308be_download.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27download3.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134438Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=00feb5e3c56bb6ecdb120922ff41927010343ca047fab8ed73939834b72518d9 ...
+2016-06-05 16:45:57,742 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/c778f0ae-ca39-4513-8214-a73293bb3786/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:45:58,531 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/57bfaff4-ffe7-4725-addd-212155b80517/callback
+2016-06-05 16:45:59,306 [8] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/57bfaff4-ffe7-4725-addd-212155b80517/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:08,944 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/3a3efd4e30e603fe_example.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27example.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T134449Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=34680bb7b78de74427345868f0e1de26925a3e783055683da0f40f9fdcb83b43 ...
+2016-06-05 16:46:11,487 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/07c262e5-2fec-4c37-a170-5568a1cee75e/callback
+2016-06-05 16:46:12,299 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/07c262e5-2fec-4c37-a170-5568a1cee75e/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:13,636 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/aaa5ef9111a15e31_ExecutiveSummary.pdf?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Executive%20Summary%2009-2014.pdf&X-Amz-Expires=3600&X-Amz-Date=20160605T134453Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=78eafba4052febbc678fe6ef89c09d7a52cc45555fb440a7f83e9ce8807ef4f8 ...
+2016-06-05 16:46:16,902 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/c6005852-9b49-412b-9008-123dc88f0671/callback
+2016-06-05 16:46:17,669 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/c6005852-9b49-412b-9008-123dc88f0671/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:18,815 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/75c5c90297a3b13b_images.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27images.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134458Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=597fb237922899597b2e79cb98ccf3f5051a0d487b7200f2a332994607649b9d ...
+2016-06-05 16:46:19,115 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/d97a24064ad55dc5_images.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27images1.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134459Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=54bdb32921dd9f222ee34946c1d96e5da6d6dfa058bd247f4d043f6ccf779c61 ...
+2016-06-05 16:46:20,307 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/e3ca652b-d17a-424b-b40b-173d09489987/callback
+2016-06-05 16:46:20,592 [15] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/52fe52eb-5dfc-44f4-96c7-ae98c3cd3021/callback
+2016-06-05 16:46:20,957 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/e3ca652b-d17a-424b-b40b-173d09489987/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:21,344 [15] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/52fe52eb-5dfc-44f4-96c7-ae98c3cd3021/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:26,418 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/b0450b54d4cc649e_images.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27images2.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134506Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=62ca18dad004c62ec3504553c0577530307ed859224b382e75a611576ef5cb2a ...
+2016-06-05 16:46:26,441 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/11dce3f4429064e5_images.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27images3.jpg&X-Amz-Expires=3600&X-Amz-Date=20160605T134506Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6ed7eff856ac31d898934226218482969ff84fe24d0c55e7536269a5f6d14062 ...
+2016-06-05 16:46:28,111 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/7fe1635a-2e7b-4cb6-bbb3-e980ebd23ca8/callback
+2016-06-05 16:46:28,358 [14] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/dcbdfa5d-b901-4ca9-87af-51a6c5518eb5/callback
+2016-06-05 16:46:29,385 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/7fe1635a-2e7b-4cb6-bbb3-e980ebd23ca8/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:29,492 [14] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/dcbdfa5d-b901-4ca9-87af-51a6c5518eb5/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:30,483 [10] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/681d23d44bcd8b9f_Screenshotfrom.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Screenshot%20from%202016-05-02%2016%3A14%3A39.png&X-Amz-Expires=3600&X-Amz-Date=20160605T134510Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4eab024a2636db8f6560c44baac87bc184c094be6f534976643f1b4de0e325f0 ...
+2016-06-05 16:46:33,841 [8] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f199c785-09d0-416a-bdbe-fe1b43723626/callback
+2016-06-05 16:46:34,488 [8] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/f199c785-09d0-416a-bdbe-fe1b43723626/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:35,229 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/8eb8204034dad26e_Screenshotfrom.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Screenshot%20from%202016-05-02%2016%3A15%3A07.png&X-Amz-Expires=3600&X-Amz-Date=20160605T134515Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=034c965cb43cd1741c67e2bcdb19680d8f2a5b0ebea5a0db5986f8f48915f026 ...
+2016-06-05 16:46:39,583 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f22ae2ea-a661-4cc2-9727-e74eb8f9a1fd/callback
+2016-06-05 16:46:40,229 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/f22ae2ea-a661-4cc2-9727-e74eb8f9a1fd/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:42,229 [7] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/e9d1420b7640b212_Screenshotfrom.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Screenshot%20from%202016-05-02%2016%3A44%3A42.png&X-Amz-Expires=3600&X-Amz-Date=20160605T134522Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=989a20e49aac6f7623f5269876a1314cac00010e5bc5818f8e5b35d9f4485085 ...
+2016-06-05 16:46:45,614 [14] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/1e85dff54218e5d8_Screenshotfrom.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Screenshot%20from%202016-05-02%2016%3A47%3A30.png&X-Amz-Expires=3600&X-Amz-Date=20160605T134525Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d7eb54000a6693a6d072021c02c0dd5d9e84eba8c3a2d7a714c3c1f49f5f8ba6 ...
+2016-06-05 16:46:50,859 [5] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/ff2bc792-3c7e-4c53-8405-e207ddc92223/callback
+2016-06-05 16:46:51,476 [10] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f97f0d89-bed3-4631-8ccd-0000b0ebcb50/callback
+2016-06-05 16:46:51,522 [5] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/ff2bc792-3c7e-4c53-8405-e207ddc92223/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:52,666 [10] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/f97f0d89-bed3-4631-8ccd-0000b0ebcb50/callback response: {"status":"OK","message":"OK"}
+2016-06-05 16:46:53,461 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/f59799d719c0eaa6_Screenshotfrom.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Screenshot%20from%202016-05-17%2009%3A37%3A41.png&X-Amz-Expires=3600&X-Amz-Date=20160605T134533Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160605/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c5197c3f86ef8e0e2d442af149ef96e0bf3cbb7e3b06d53e97cef1510608aa34 ...
+2016-06-05 16:46:55,809 [15] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/46fedc8f-3539-4393-b465-6f78b2a68d76/callback
+2016-06-05 16:46:56,437 [15] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/46fedc8f-3539-4393-b465-6f78b2a68d76/callback response: {"status":"OK","message":"OK"}
+2016-06-05 17:49:26,751 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg ...
+2016-06-05 17:49:27,290 [7] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 17:49:27,295 [7] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid!
+2016-06-05 17:49:27,296 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:49:39,858 [7] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:49:39,858 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:49:40,189 [7] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:49:40,213 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:49:40,534 [7] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:49:40,534 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:49:40,876 [7] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:51:28,090 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg ...
+2016-06-05 17:51:28,470 [9] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 17:51:28,471 [9] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid!
+2016-06-05 17:51:28,471 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:51:28,967 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:51:28,967 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:51:29,327 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:51:29,336 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:51:29,665 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:51:29,665 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:51:30,011 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:53:54,171 [8] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg ...
+2016-06-05 17:53:54,530 [9] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 17:53:54,531 [9] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid!
+2016-06-05 17:53:54,531 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e298dd21-c8f3-4ad4-a384-6ba5887399ad/callback
+2016-06-05 17:53:55,023 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e298dd21-c8f3-4ad4-a384-6ba5887399ad/callback
+2016-06-05 17:54:02,261 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e298dd21-c8f3-4ad4-a384-6ba5887399ad/callback
+2016-06-05 17:54:02,706 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e298dd21-c8f3-4ad4-a384-6ba5887399ad/callback
+2016-06-05 17:54:02,716 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e298dd21-c8f3-4ad4-a384-6ba5887399ad/callback
+2016-06-05 17:54:03,114 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e298dd21-c8f3-4ad4-a384-6ba5887399ad/callback
+2016-06-05 17:54:05,546 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e298dd21-c8f3-4ad4-a384-6ba5887399ad/callback
+2016-06-05 17:54:05,872 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e298dd21-c8f3-4ad4-a384-6ba5887399ad/callback
+2016-06-05 17:54:53,236 [9] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:54:56,024 [13] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:54:56,230 [9] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:54:56,504 [13] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/e0effc9d-a214-4a33-bdd5-7164c4b9bc84/callback
+2016-06-05 17:56:17,252 [16] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg ...
+2016-06-05 17:56:17,576 [12] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 17:56:17,576 [12] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid!
+2016-06-05 17:56:20,075 [12] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/6e6df8a6-5a50-42b6-9558-53234b13d2eb/callback
+2016-06-05 17:56:25,555 [12] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/6e6df8a6-5a50-42b6-9558-53234b13d2eb/callback
+2016-06-05 17:57:01,331 [16] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:57:05,443 [19] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:57:05,444 [12] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/6e6df8a6-5a50-42b6-9558-53234b13d2eb/callback
+2016-06-05 17:57:05,830 [19] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:57:05,920 [12] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/6e6df8a6-5a50-42b6-9558-53234b13d2eb/callback
+2016-06-05 17:57:08,044 [12] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/6e6df8a6-5a50-42b6-9558-53234b13d2eb/callback
+2016-06-05 17:57:08,059 [16] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/c715bc3e-dd93-4d26-9f12-b0bd485141d1/callback
+2016-06-05 17:57:08,387 [12] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/6e6df8a6-5a50-42b6-9558-53234b13d2eb/callback
+2016-06-05 17:57:10,124 [12] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/6e6df8a6-5a50-42b6-9558-53234b13d2eb/callback
+2016-06-05 17:57:10,446 [12] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/6e6df8a6-5a50-42b6-9558-53234b13d2eb/callback
+2016-06-05 18:03:19,955 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg ...
+2016-06-05 18:03:20,452 [7] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 18:03:20,455 [7] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid!
+2016-06-05 18:03:26,628 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/0a0f8421-f704-4b03-bdbf-6c01029c99b3/callback
+2016-06-05 18:03:27,253 [7] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/0a0f8421-f704-4b03-bdbf-6c01029c99b3/callback
+2016-06-05 18:03:33,116 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/0a0f8421-f704-4b03-bdbf-6c01029c99b3/callback
+2016-06-05 18:03:33,443 [7] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/0a0f8421-f704-4b03-bdbf-6c01029c99b3/callback
+2016-06-05 18:05:04,483 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg ...
+2016-06-05 18:05:04,938 [6] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 18:05:04,943 [6] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid!
+2016-06-05 18:05:55,559 [6] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/4b6f8f54-ce81-4021-96cb-ab9eb4c6e8f2/callback
+2016-06-05 18:05:56,166 [6] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/4b6f8f54-ce81-4021-96cb-ab9eb4c6e8f2/callback
+2016-06-05 18:05:56,168 [6] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/4b6f8f54-ce81-4021-96cb-ab9eb4c6e8f2/callback
+2016-06-05 18:05:56,548 [6] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/4b6f8f54-ce81-4021-96cb-ab9eb4c6e8f2/callback
+2016-06-05 18:06:33,459 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg ...
+2016-06-05 18:06:33,675 [6] ERROR bxMSCLIScanner.FileFromLink - System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at bxMSCLIScanner.FileFromLink.build(String url) in C:\Users\follo\bxMSCLIScanner\bxMSCLIScanner\bxMSCLIScanner\FileFromLink.cs:line 22
+2016-06-05 18:06:33,676 [6] ERROR bxMSCLIScanner.ScanExecuter - File: http://dri1.img.digitalrivercontent.net/Storefront/Comsintl/images/English/en-INTL-BLU-Win-HD-LTE-Blue-QJ4-00002/en-INTL-L-BLU-Win-HD-LTE-Blue-QJ4-00002-mnco.jpg is invalid!
+2016-06-05 18:06:33,676 [6] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/0565b0c1-be98-4b58-a21d-ec2efe25866f/callback
+2016-06-05 18:06:34,025 [6] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/0565b0c1-be98-4b58-a21d-ec2efe25866f/callback
+2016-06-05 18:06:34,025 [6] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/0565b0c1-be98-4b58-a21d-ec2efe25866f/callback
+2016-06-05 18:06:34,334 [6] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/0565b0c1-be98-4b58-a21d-ec2efe25866f/callback
+2016-06-05 18:10:56,564 [18] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/4b6f8f54-ce81-4021-96cb-ab9eb4c6e8f2/callback
+2016-06-05 18:10:57,047 [18] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/4b6f8f54-ce81-4021-96cb-ab9eb4c6e8f2/callback
+2016-06-05 18:11:34,346 [6] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/0565b0c1-be98-4b58-a21d-ec2efe25866f/callback
+2016-06-05 18:11:34,673 [6] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/0565b0c1-be98-4b58-a21d-ec2efe25866f/callback
+2016-06-05 18:29:26,746 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 18:29:29,721 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/b497d569-f1bf-4523-890e-689ab0ae7456/callback
+2016-06-05 18:29:30,311 [7] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/b497d569-f1bf-4523-890e-689ab0ae7456/callback
+2016-06-05 18:29:30,311 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/b497d569-f1bf-4523-890e-689ab0ae7456/callback
+2016-06-05 18:29:32,347 [7] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/b497d569-f1bf-4523-890e-689ab0ae7456/callback
+2016-06-05 18:34:32,363 [6] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/b497d569-f1bf-4523-890e-689ab0ae7456/callback
+2016-06-05 18:34:32,862 [6] INFO bxMSCLIScanner.CallBacker - Error in callback to: http://app.staging-folloze.info/malware_detections/b497d569-f1bf-4523-890e-689ab0ae7456/callback
+2016-06-05 18:43:55,932 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: http://www.publishers.org.uk/_resources/assets/attachment/full/0/2091.pdf ...
+2016-06-05 18:43:58,277 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f26dc003-a52f-4a28-8c6a-d1ff9f57a551/callback
+2016-06-05 18:43:59,378 [7] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/f26dc003-a52f-4a28-8c6a-d1ff9f57a551/callback response: {"status":"Bad Request","message":"Error - can't find malware detection log for specific guid: f26dc003-a52f-4a28-8c6a-d1ff9f57a551"}
+2016-06-05 18:43:59,420 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/f26dc003-a52f-4a28-8c6a-d1ff9f57a551/callback
+2016-06-05 18:44:00,196 [7] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/f26dc003-a52f-4a28-8c6a-d1ff9f57a551/callback response: {"status":"Bad Request","message":"Error - can't find malware detection log for specific guid: f26dc003-a52f-4a28-8c6a-d1ff9f57a551"}
+2016-06-06 17:58:52,662 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/635dd873401dde83_bug.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27bug1.png&X-Amz-Expires=3600&X-Amz-Date=20160606T145720Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160606/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bc08664981d95ccfe8df38e34ee828217ad23d6318a8b185ed3b6e958b931780 ...
+2016-06-06 17:58:55,927 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/ef81f61f-c0d4-4a7c-9f53-e96639120c59/callback
+2016-06-06 17:59:03,207 [7] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/ef81f61f-c0d4-4a7c-9f53-e96639120c59/callback response: {"status":"OK","message":"OK"}
+2016-06-07 10:03:03,626 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/aff43d25cc5631a6_bug.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27bug1.png&X-Amz-Expires=3600&X-Amz-Date=20160607T070131Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160607/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=71623848b2afad844ca7eb2179c1e9e107835941dd664896b950643dafc78690 ...
+2016-06-07 10:04:03,109 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e1277439-fa03-4e4d-affc-abf1bacfd6bf/callback
+2016-06-07 10:04:03,693 [7] INFO bxMSCLIScanner.CallBacker - http://app.staging-folloze.info/malware_detections/e1277439-fa03-4e4d-affc-abf1bacfd6bf/callback response: {"status":"Bad Request","message":"Error - can't find malware detection log for specific guid: e1277439-fa03-4e4d-affc-abf1bacfd6bf"}
+2016-06-07 10:04:03,753 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://app.staging-folloze.info/malware_detections/e1277439-fa03-4e4d-affc-abf1bacfd6bf/callback
+2016-06-07 10:04:04,208 [7] INFO bxMSCLIScanner.CallBacker - http://app.staging-folloze.info/malware_detections/e1277439-fa03-4e4d-affc-abf1bacfd6bf/callback response: {"status":"Bad Request","message":"Error - can't find malware detection log for specific guid: e1277439-fa03-4e4d-affc-abf1bacfd6bf"}
+2016-06-07 10:06:53,107 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/c29d02a78508ee5c_bug.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27bug1.png&X-Amz-Expires=3600&X-Amz-Date=20160607T070521Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160607/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d630d848093d232cfbdd99cb5d8aaef9a7f174a1cefa715c3260c415ccdbbb15 ...
+2016-06-07 10:06:56,762 [6] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/bde08dd9-6036-40ef-89a0-3d6abb0f491f/callback
+2016-06-07 10:06:58,026 [6] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/bde08dd9-6036-40ef-89a0-3d6abb0f491f/callback response: {"status":"OK","message":"OK"}
+2016-06-07 10:10:27,135 [5] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/aa206f6dc8ba7e04_bug.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27bug1.png&X-Amz-Expires=3600&X-Amz-Date=20160607T070855Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160607/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=471dba99bdef9bd2831acefb25b77f3fd2dd16ea48b8a8d4478f5d73a386b125 ...
+2016-06-07 10:11:07,126 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/c49715e1-66af-4732-aa51-cec0adeb4f18/callback
+2016-06-07 10:11:08,274 [7] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/c49715e1-66af-4732-aa51-cec0adeb4f18/callback response: {"status":"OK","message":"OK"}
+2016-06-07 10:15:29,395 [6] INFO ScanFilesBuffer.Controllers.ScanFilesController - Incoming file path: https://folloze-files-development.s3-us-west-2.amazonaws.com/e7caf92249b24cf3_bug.png?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27bug1.png&X-Amz-Expires=3600&X-Amz-Date=20160607T071357Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEU7PWAGV2X5LZ2A/20160607/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f613d93d3c0708c5f426419481353d47e185c4ba66ff07e061beb7cc11a2a7c0 ...
+2016-06-07 10:15:32,140 [7] INFO bxMSCLIScanner.CallBacker - Send callback to: http://10050fa1.ngrok.io/malware_detections/80df4fb6-5eca-4d55-8388-d9ae7a66848c/callback
+2016-06-07 10:15:39,311 [7] INFO bxMSCLIScanner.CallBacker - http://10050fa1.ngrok.io/malware_detections/80df4fb6-5eca-4d55-8388-d9ae7a66848c/callback response: {"status":"OK","message":"OK"}
