@@ -24,13 +24,14 @@ namespace ScanFilesBuffer.Controllers
         {
             string filepath = Request.RequestUri.Query.Replace("?filepath=", "");
             string guid = Guid.NewGuid().ToString();
-            WebApplication2.ApplicationSettings settings = (WebApplication2.ApplicationSettings)System.Configuration.ConfigurationManager.GetSection("folloze/url");
+            WebApplication2.ApplicationSettings folloze_url = (WebApplication2.ApplicationSettings)System.Configuration.ConfigurationManager.GetSection("folloze/url");
+            WebApplication2.ApplicationSettings opswat_url = (WebApplication2.ApplicationSettings)System.Configuration.ConfigurationManager.GetSection("opswat/url");
 
             ScanExecuter scan = new ScanExecuter();
             string info_message = string.Format("Incoming file path: {0} ...", filepath);
             log.Info(info_message);
 
-            Task task = new Task(() => scan.execute(filepath, guid, settings.path));
+            Task task = new Task(() => scan.execute(filepath, guid, folloze_url.path, opswat_url.path));
             task.Start();
 
             var resp = new HttpResponseMessage(HttpStatusCode.OK);
